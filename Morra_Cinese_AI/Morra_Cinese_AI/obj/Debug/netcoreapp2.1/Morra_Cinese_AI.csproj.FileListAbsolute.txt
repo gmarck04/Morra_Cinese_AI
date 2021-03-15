@@ -1,0 +1,11 @@
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\bin\Debug\netcoreapp2.1\Morra_Cinese_AI.deps.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\bin\Debug\netcoreapp2.1\Morra_Cinese_AI.runtimeconfig.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\bin\Debug\netcoreapp2.1\Morra_Cinese_AI.runtimeconfig.dev.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\bin\Debug\netcoreapp2.1\Morra_Cinese_AI.dll
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\bin\Debug\netcoreapp2.1\Morra_Cinese_AI.pdb
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\obj\Debug\netcoreapp2.1\Morra_Cinese_AI.csprojAssemblyReference.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\obj\Debug\netcoreapp2.1\Morra_Cinese_AI.csproj.CoreCompileInputs.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\obj\Debug\netcoreapp2.1\Morra_Cinese_AI.AssemblyInfoInputs.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\obj\Debug\netcoreapp2.1\Morra_Cinese_AI.AssemblyInfo.cs
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\obj\Debug\netcoreapp2.1\Morra_Cinese_AI.dll
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_Cinese_AI\Morra_Cinese_AI\Morra_Cinese_AI\obj\Debug\netcoreapp2.1\Morra_Cinese_AI.pdb
